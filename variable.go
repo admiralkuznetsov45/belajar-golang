@@ -14,6 +14,21 @@ func main() {
 	var friendName = "Budi"
 	fmt.Println(friendName)
 
-	var age = 30
+	var age int
+	age = 30
 	fmt.Println(age)
+
+	nama := "Muhammad Daffa ZW"
+	fmt.Println(nama)
+
+	nama2 := "Muhammad Dawe"
+	fmt.Println(nama2)
+
+	var (
+		firstName = "Uni"
+		lastName  = "Soviet"
+	)
+
+	fmt.Println(firstName)
+	fmt.Println(lastName)
 }
